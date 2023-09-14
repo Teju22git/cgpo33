@@ -1,11 +1,10 @@
 from pyspark.sql import SparkSession
-#from pyspark import SparkContext
-#sc = SparkContext("local", "First App")
+
 
 
 from configparser import ConfigParser
 
-
+# printing helloo instead of spacesss
 def main():
 
 
